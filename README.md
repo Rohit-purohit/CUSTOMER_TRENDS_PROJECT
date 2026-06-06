@@ -215,11 +215,7 @@ Birla Institute of Technology, Mesra
 
 Skills: Python | SQL | Power BI | MATLAB | Verilog | Data Analytics
 
-LinkedIn: [Add Your LinkedIn Profile]
-
-GitHub: [Add Your GitHub Profile]
-
-Email: [Add Your Email]
+Email: rohitpurohit921@gmail.com
 
 ---
 
